@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Ami-Resume-Maker/precache-manifest.ef6ea949c4138dceb3880fb3da746f94.js"
+  "/Resume-Maker-main/precache-manifest.a5d69981e9ea69018d84cff285c3fc97.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Ami-Resume-Maker/index.html", {
+workbox.routing.registerNavigationRoute("/Resume-Maker-main/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
