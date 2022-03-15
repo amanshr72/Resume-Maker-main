@@ -1,13 +1,13 @@
 {
-  "main.css": "/Resume-Maker-main/static/css/main.849ac7d6.chunk.css",
-  "main.js": "/Resume-Maker-main/static/js/main.18642ab1.chunk.js",
-  "main.js.map": "/Resume-Maker-main/static/js/main.18642ab1.chunk.js.map",
-  "static/js/1.d91c2e85.chunk.js": "/Resume-Maker-main/static/js/1.d91c2e85.chunk.js",
-  "static/js/1.d91c2e85.chunk.js.map": "/Resume-Maker-main/static/js/1.d91c2e85.chunk.js.map",
-  "runtime~main.js": "/Resume-Maker-main/static/js/runtime~main.e577533b.js",
-  "runtime~main.js.map": "/Resume-Maker-main/static/js/runtime~main.e577533b.js.map",
-  "static/css/main.849ac7d6.chunk.css.map": "/Resume-Maker-main/static/css/main.849ac7d6.chunk.css.map",
-  "index.html": "/Resume-Maker-main/index.html",
-  "precache-manifest.a5d69981e9ea69018d84cff285c3fc97.js": "/Resume-Maker-main/precache-manifest.a5d69981e9ea69018d84cff285c3fc97.js",
-  "service-worker.js": "/Resume-Maker-main/service-worker.js"
+  "files": {
+    "main.css": "/build-resume1/static/css/main.542e96b7.css",
+    "main.js": "/build-resume1/static/js/main.3d8f58b6.js",
+    "index.html": "/build-resume1/index.html",
+    "main.542e96b7.css.map": "/build-resume1/static/css/main.542e96b7.css.map",
+    "main.3d8f58b6.js.map": "/build-resume1/static/js/main.3d8f58b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.542e96b7.css",
+    "static/js/main.3d8f58b6.js"
+  ]
 }
